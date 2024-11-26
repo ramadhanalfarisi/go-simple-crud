@@ -5,5 +5,3 @@ You may also wanna see the documentation about the materials :
 - Go : https://go.dev/doc/
 - Gin : https://gin-gonic.com/docs/
 - PostgreSQL : https://www.postgresql.org/docs/
-
-
